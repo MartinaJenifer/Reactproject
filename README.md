@@ -1,7 +1,6 @@
 # Reactproject
 
-Now A days people are not aware of how much they spend in their day to day life hence this project is a life saver.here we go to the live project 
-"http://localhost:3000/" 
+Now A days people are not aware of how much they spend in their day to day life hence this project is a life saver.
 
 UI of the project
 
